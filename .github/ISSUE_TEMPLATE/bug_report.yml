@@ -1,0 +1,22 @@
+name: Bug report
+description: Report a reproducible problem without private household data
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Expected and actual behavior. Do not paste tokens, calendar details or private logs.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version, device and operating system
+    validations:
+      required: true
