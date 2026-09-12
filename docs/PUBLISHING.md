@@ -21,6 +21,7 @@
 - Дождаться CI; проверить чистую установку со своими тестовыми Google-аккаунтами.
 - Настроить собственную подпись Android/iOS вне Git. Не выдавать debug APK за релиз.
 - Проверить Branding, callback, документы и статус Google OAuth.
+- Для верификации Google записать демо-видео: `scripts/record-oauth-demo.ps1` (нужен ffmpeg), раскадровка — в [GOOGLE_CALENDAR.md](https://github.com/dinosaur-tv/backend/blob/main/docs/GOOGLE_CALENDAR.md).
 - Перед `REGISTRATION_OPEN=true` пройти [обязанности оператора](https://github.com/dinosaur-tv/backend/blob/main/docs/HOSTED_SERVICE.md): верификация Google, документы, резервные копии, ёмкость.
 - Задать переменные и секреты подписи для `Release APK`; проверить, что в релиз попал подписанный файл, а не debug-сборка.
 
