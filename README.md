@@ -10,6 +10,7 @@
 | Приложение для телевизора (APK) | [tv-app · Releases](https://github.com/dinosaur-tv/tv-app/releases/latest) |
 | Пульт для Android (APK) | [android-app · Releases](https://github.com/dinosaur-tv/android-app/releases/latest) |
 | Приложение для iPhone (IPA) | [ios-app · Releases](https://github.com/dinosaur-tv/ios-app/releases/latest) |
+| Экран на мониторе компьютера (Windows) | [app · Releases](https://github.com/dinosaur-tv/app/releases/latest) |
 | Как установить APK и загрузить iOS через sideload | [docs/INSTALL.md](docs/INSTALL.md) |
 
 Начните с бота: он создаёт дом, подключает календари и выдаёт код для телевизора. Приложения — по желанию.

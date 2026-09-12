@@ -11,6 +11,7 @@
 - [APK для телевизора](https://github.com/dinosaur-tv/tv-app/releases/latest)
 - [APK пульта для Android](https://github.com/dinosaur-tv/android-app/releases/latest)
 - [IPA для iPhone](https://github.com/dinosaur-tv/ios-app/releases/latest)
+- [Экран для Windows](https://github.com/dinosaur-tv/app/releases/latest) — portable .exe, установка не нужна
 - [Как установить, включая sideload на iOS](https://github.com/dinosaur-tv/.github/blob/main/docs/INSTALL.md)
 
 ## Репозитории
